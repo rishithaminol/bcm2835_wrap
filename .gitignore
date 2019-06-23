@@ -1,0 +1,7 @@
+venv/
+*.so
+*.a
+*.o
+
+.vscode/
+*.code-workspace
